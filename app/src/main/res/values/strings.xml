@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetIt</string>
+    <string name="action_settings">Settings</string>
+    <string name="locationTxt">Location Update</string>
+    <string name="front_picture">Front Picture</string>
+    <string name="back_picture">Back Picture</string>
+</resources>
